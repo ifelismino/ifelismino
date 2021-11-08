@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ifelismino
+- 👀 I’m interested in machine learning, computational physics and data science
+- 🌱 I’m currently learning software and game development as a hobby.
+- I work as a systems developer in the Philippines
